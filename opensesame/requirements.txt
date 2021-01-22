@@ -1,0 +1,14 @@
+soundfile
+pygame
+yolk3k
+opensesame-extension-osf
+python-qtpip
+python-opensesame
+opensesame-extension-osweb
+opensesame-plugin-psychopy
+psychopy
+rapunzel
+python-pygaze
+http://files.cogsci.nl/expyriment-0.10.0+opensesame2-py3-none-any.whl
+PyQtWebEngine
+fastnumbers
