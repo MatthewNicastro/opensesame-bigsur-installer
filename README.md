@@ -83,18 +83,18 @@ Proceed to [Installing Opensesame](#installing-opensesame) section
 PLEASE MAKE SURE YOU HAVE A **python3** VARIENT INSTALLED BEFORE PROCEEDING
 To install Opensesame
 1. Download the code 
-  * Click the green code button at the top 
-    [Green button](/images/download1.png)
-  * Click the download zip option
-    [Download ZIP](/images/download2.png)
+  * Click the green code button at the top \
+    ![Green button](/images/download1.png)
+  * Click the download zip option\
+    ![Download ZIP](/images/download2.png)
 2. Unzip the package and move the package to your Desktop 
 3. Open terminal and run the following command
 ```
 cd Desktop/opensesame;chmod +x setup_environment.sh;./setup_environment.sh
 ```
-   This will start installing Opensesame and all it's dependecies once its complete, if install was correct you should see the following: 
+   This will start installing Opensesame and all it's dependecies once its complete, you should see: 
 ```
-Successfully installed PyQt5-sip-12.8.1 PyQtWebEngine-5.15.2 appnope-0.1.2 arabic-reshaper-2.1.1 arrow-0.17.0 astunparse-1.6.3 attrs-20.3.0 autopep8-1.5.4 backcall-0.2.0 beautifulsoup4-4.9.3 certifi-2020.12.5 cffi-1.14.4 chardet-4.0.0 cryptography-3.3.1 cycler-0.10.0 decorator-4.4.2 docutils-0.16 dukpy-0.2.3 esprima-4.0.1 et-xmlfile-1.0.1 expyriment-0.10.0+opensesame2 fastnumbers-3.1.0 freetype-py-2.2.0 future-0.18.2 gevent-21.1.2 gitdb-4.0.5 gitpython-3.1.12 glfw-2.0.0 greenlet-1.0.0 humanize-3.2.0 idna-2.10 imageio-2.9.0 imageio-ffmpeg-0.4.3 ipykernel-5.4.3 ipython-7.19.0 ipython-genutils-0.2.0 javascripthon-0.11 jdcal-1.4.1 jedi-0.18.0 js2py-0.70 json-tricks-3.15.5 jsonschema-3.2.0 jupyter-client-6.1.11 jupyter-core-4.7.0 kiwisolver-1.3.1 macropy3-1.1.0b2 matplotlib-3.3.3 moviepy-1.0.3 msgpack-1.0.2 msgpack-numpy-0.4.7.1 nbformat-5.1.2 numexpr-2.7.2 numpy-1.19.5 oauthlib-3.1.0 opencv-python-4.5.1.48 openpyxl-3.0.6 opensesame-extension-osf-1.2.1 opensesame-extension-osweb-1.3.12.0 opensesame-plugin-psychopy-0.6.0 pandas-1.2.1 parso-0.8.1 pexpect-4.8.0 pickleshare-0.7.5 pillow-8.1.0 proglog-0.1.9 prompt-toolkit-3.0.13 psutil-5.8.0 psychopy-2020.2.10 ptyprocess-0.7.0 pyOpenSSL-20.0.1 pycodestyle-2.6.0 pycparser-2.20 pyflakes-2.2.0 pygame-2.0.1 pyglet-1.5.14 pygments-2.7.4 pyjsparser-2.7.1 pyobjc-core-7.1 pyobjc-framework-Cocoa-7.1 pyobjc-framework-Quartz-7.1 pyopengl-3.1.5 pyosf-1.0.5 pyparsing-2.4.7 pyqode.qt-2.10.0 pyqode3.core-3.1.10 pyqode3.python-3.1.5 pyqt5-5.15.2 pyrsistent-0.17.3 pyserial-3.5 pyspellchecker-0.5.6 python-bidi-0.4.2 python-datamatrix-0.11.1 python-dateutil-2.8.1 python-dotenv-0.15.0 python-fileinspector-1.0.2 python-gitlab-2.5.0 python-levenshtein-0.12.1 python-opensesame-3.3.6 python-pseudorandom-0.2.2 python-pygaze-0.7.1 python-qdatamatrix-0.1.29 python-qnotifications-2.0.6 python-qosf-1.3.1 python-qtpip-0.3.0 pytz-2020.5 pyyaml-5.4.1 pyzmq-21.0.1 qtawesome-1.0.2 qtconsole-5.0.2 qtpy-1.9.0 questplus-2019.4 rapunzel-0.5.9 requests-2.25.1 requests-oauthlib-1.3.0 scipy-1.6.0 six-1.15.0 smmap-3.0.4 sounddevice-0.4.1 soundfile-0.10.3.post1 soupsieve-2.1 tables-3.6.1 toml-0.10.2 tornado-6.1 tqdm-4.56.0 traitlets-5.0.5 tzlocal-2.1 urllib3-1.26.2 wcwidth-0.2.5 webcolors-1.11.1 websocket-client-0.57.0 wheel-0.36.2 wxPython-4.1.1 xarray-0.16.2 xlrd-2.0.1 yolk3k-0.9 zope.event-4.5.0 zope.interface-5.2.0
+Successfully installed *** A bunch of python dependencies ***
 ```
 
 ## Starting Opensesame
