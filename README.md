@@ -18,7 +18,7 @@ If the following appears then **python3** is already installed and does not need
 ```
 Python 3.X.Y
 ```
-### NOTE::
+### NOTE:
 If the following appears you have some **Python 3.9** varient .
 ```
 Python 3.9.X
@@ -87,12 +87,13 @@ To install Opensesame
     ![Green button](/images/download1.png)
   * Click the download zip option\
     ![Download ZIP](/images/download2.png)
-2. Unzip the package and move the package to your Desktop 
+2. Unzip the package and move the opensesame folder to your Desktop 
 3. Open terminal and run the following command
 ```
 cd Desktop/opensesame;chmod +x setup_environment.sh;./setup_environment.sh
 ```
-   This will start installing Opensesame and all it's dependecies once its complete, you should see: 
+   This will installing Opensesame and all it's dependecies \
+   Once its complete, you should see: 
 ```
 Successfully installed *** A bunch of python dependencies ***
 ```
