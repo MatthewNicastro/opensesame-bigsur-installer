@@ -87,15 +87,15 @@ To install Opensesame
     ![Green button](/images/download1.png)
   * Click the download zip option (**DO NOT CLICK THE IMAGE BELLOW**)\
     ![Download ZIP](/images/download2.png)
-2. Unzip the package and move the opensesame folder to your Desktop 
+2. Unzip the downloaded file (**you should be able to just double click it to open it**). Open the unzipped folder (It should be named **opensesame-bigsur-installer-main**), and move the folder named **opensesame** to your desktop.
 3. Open terminal and run the following command
 ```
 cd Desktop/opensesame;chmod +x setup_environment.sh;./setup_environment.sh
 ```
    This will installing Opensesame and all it's dependecies \
-   Once its complete, you should see: 
+   Once its complete, you should see the follow (**NOTE:** ...  refers to python modules): 
 ```
-Successfully installed *** A bunch of python dependencies ***
+Successfully installed ...
 ```
 
 ## Starting Opensesame
