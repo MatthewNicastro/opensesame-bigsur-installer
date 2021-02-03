@@ -1,7 +1,7 @@
 # Opensesame installer for Macos Big Sur
 
 ## Requirments
-Inorder for this installer to work you must have so varient of **Python 3.7** installed
+In order for this installer to work you must have some variant of **Python 3.7** installed
 on your computer. To check if **Python 3.7** is on your computer do the following: 
 1. Open terminal
 2. Run the following command:
@@ -12,14 +12,14 @@ If python3 is not installed you should see the following message:
 ```
 zsh: command not found: python3
 ```
-Inorder to proceed you need to [install python3](#installing-python3)
+In order to proceed you need to [install python3](#installing-python3)
 
 If the following appears then **python3** is already installed and does not need to be installed again.
 ```
 Python 3.X.Y
 ```
 ### NOTE:
-If the following appears you have some **Python 3.9** varient .
+If the following appears you have some **Python 3.9** variant .
 ```
 Python 3.9.X
 ```
