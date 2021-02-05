@@ -83,9 +83,9 @@ Proceed to [Installing Opensesame](#installing-opensesame) section
 PLEASE MAKE SURE YOU HAVE A **python3** VARIENT INSTALLED BEFORE PROCEEDING
 To install Opensesame
 1. Download the code 
-  * Scroll up to the top of this page and click the green code button (**DO NOT CLICK THE IMAGE BELLOW**)\
+  * Scroll up to the top of this page and click the green code button (**DO NOT CLICK THE IMAGE BELOW**)\
     ![Green button](/images/download1.png)
-  * Click the download zip option (**DO NOT CLICK THE IMAGE BELLOW**)\
+  * Click the download zip option (**DO NOT CLICK THE IMAGE BELOW**)\
     ![Download ZIP](/images/download2.png)
 2. Unzip the downloaded file (**you should be able to just double click it to open it**). Open the unzipped folder (It should be named **opensesame-bigsur-installer-main**), and move the folder named **opensesame** to your desktop.
 3. Open terminal and run the following command
